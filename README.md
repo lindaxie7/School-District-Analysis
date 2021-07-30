@@ -5,7 +5,6 @@ Explain the purpose of this analysis.
 
 ### Purpose
 
-## Analysis:
 
 ## Results:
 Using bulleted lists and images of DataFrames as support, address the following questions.
