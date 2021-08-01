@@ -19,6 +19,7 @@ School rankings are unchanged. Thomas High School is still the second best perfo
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
 It is found that a students grade level does not affect their scores as much as the school that they attend. The average scores within each school only varries by 1-2% depending on grade level. However, the difference in scores is more apparent when comparing different schools.
+![Untitled](https://user-images.githubusercontent.com/38533045/127781393-05788b17-cb2a-4482-b25d-4c35dfc67b23.png)
 
 #### Scores by school spending
 It is found that the top performing school in the entire school district (Cabera High School) received $68 less per student than the lowest performing school (Johnson High School). This implies that there are more relevant factors than funding that decide average student scores.
