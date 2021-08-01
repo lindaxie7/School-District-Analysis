@@ -28,7 +28,7 @@ It is found that the top performing school in the entire school district (Cabera
 
 #### Scores by school size
 When considering School Sizes, "Large" Schools (Over 2,000 Students) have the lowest average scores and passing percentages. The difference in performance between "Small" and "Medium" Size Schools is negligible (approximately 1%). Interestingly, all District schools in this dataset are characterized as "Large" schools. This may be an indication that students in this district learn and perform better in smaller, more intimate settings.
-
+![Untitled](https://user-images.githubusercontent.com/38533045/127781564-0ce0b874-ba6e-47e9-8b3e-c542d05c97ab.png)
 
 #### Scores by school type
 The top five schools with the highest overall passing percentages are all Charter schools, whereas the bottom five are all District Schools. Charter schools in this dataset were typically characterized as "Small" and "Medium" size schools. As seen in the DataFrame below, Charter schools have a 36% higher overall passing percentage than District schools.
