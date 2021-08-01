@@ -8,7 +8,7 @@ Explain the purpose of this analysis.
 
 ## Results:
 The first trial of this analysis included the full set of student data. In the second trial of this analysis, the ninth grade students of Thomas High School had their scores omitted from the calculations. The entire ninth grade class of Thomas High School have had their scores replaced with NaN. The DataFrame below is a summary representing the District after replacing the ninth graders' scores with NaN.
-
+![Untitled](https://user-images.githubusercontent.com/38533045/127780851-c8b657aa-f74b-4fa8-86e4-59cc5028a936.png)
 
 - How is the district summary affected?
 
