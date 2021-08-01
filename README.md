@@ -23,7 +23,8 @@ It is found that a students grade level does not affect their scores as much as 
 
 #### Scores by school spending
 It is found that the top performing school in the entire school district (Cabera High School) received $68 less per student than the lowest performing school (Johnson High School). This implies that there are more relevant factors than funding that decide average student scores.
-![Untitled](https://user-images.githubusercontent.com/38533045/127781498-072e1c29-a9f5-45df-9abd-7cb554b590f8.png)
+![Untitled](https://user-images.githubusercontent.com/38533045/127781531-ec4e003d-40e4-41b9-b0be-e02cbf3e4d94.png)
+
 
 #### Scores by school size
 When considering School Sizes, "Large" Schools (Over 2,000 Students) have the lowest average scores and passing percentages. The difference in performance between "Small" and "Medium" Size Schools is negligible (approximately 1%). Interestingly, all District schools in this dataset are characterized as "Large" schools. This may be an indication that students in this district learn and perform better in smaller, more intimate settings.
