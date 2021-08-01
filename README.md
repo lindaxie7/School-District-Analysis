@@ -32,6 +32,7 @@ When considering School Sizes, "Large" Schools (Over 2,000 Students) have the lo
 
 #### Scores by school type
 The top five schools with the highest overall passing percentages are all Charter schools, whereas the bottom five are all District Schools. Charter schools in this dataset were typically characterized as "Small" and "Medium" size schools. As seen in the DataFrame below, Charter schools have a 36% higher overall passing percentage than District schools.
+![Untitled](https://user-images.githubusercontent.com/38533045/127781618-cb533ca8-5516-4de3-b2d4-30095f20c0e5.png)
 
 
 ## Summary:
